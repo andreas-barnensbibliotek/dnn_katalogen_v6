@@ -1,0 +1,7 @@
+D:\wwwroot\dnndev.me\bin\DNN_katalogen_v6.dll
+D:\wwwroot\dnndev.me\bin\DNN_katalogen_v6.pdb
+D:\wwwroot\dnndev.me\bin\DNN_katalogen_v6.xml
+D:\wwwroot\dnndev.me\DesktopModules\DNN_katalogen_v6\obj\Debug\DNN_katalogen_v6.vbprojResolveAssemblyReference.cache
+D:\wwwroot\dnndev.me\DesktopModules\DNN_katalogen_v6\obj\Debug\DNN_katalogen_v6.dll
+D:\wwwroot\dnndev.me\DesktopModules\DNN_katalogen_v6\obj\Debug\DNN_katalogen_v6.xml
+D:\wwwroot\dnndev.me\DesktopModules\DNN_katalogen_v6\obj\Debug\DNN_katalogen_v6.pdb
